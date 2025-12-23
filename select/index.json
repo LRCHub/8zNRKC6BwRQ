@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "＋♂",
+  "base_artist": "Giga",
+  "createdAt": "2025-12-23T09:07:08.915846Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "+♂",
+      "artist": "Giga",
+      "has_synced": false,
+      "path": "select/pl_01_+♂_Giga.txt"
+    }
+  ]
+}
